@@ -2,21 +2,22 @@ package package1;
 
 public class sec_class {
     int roll;
-    int age;
+    int year
+            ;
 
     public int getRoll() {
         return roll;
     }
 
-    public int getAge() {
-        return age;
+    public int getYear() {
+        return year;
     }
 
     public void setRoll(int roll) {
         this.roll = roll;
     }
 
-    public void setAge(int age) {
-        this.age = age;
+    public void setYear(int year) {
+        this.year = year;
     }
 }
